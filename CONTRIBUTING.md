@@ -27,11 +27,11 @@ Si tienes una idea para mejorar el proyecto, abre un issue con la etiqueta `enha
 
 ## Reconocimiento
 
-Todas las contribuciones serán reconocidas en nuestro archivo [Agradecimientos] (/docs/ACKNOWLEDGMENTS.md)
+Todas las contribuciones serán reconocidas en nuestro archivo [Agradecimientos](/docs/ACKNOWLEDGMENTS.md)
 
 ## Preguntas Frecuentes
 
 ## Enlaces Útiles
-- [Documentación] (/docs/DOCUMENTATION.md) 
-- [Roadmap] (/docs/ROADMAP.md)
-- [CódigodeConducta] (/docs/CODE_OF_CONDCUT.md)
+- [Documentación](/docs/DOCUMENTATION.md) 
+- [Roadmap](/docs/ROADMAP.md)
+- [CódigodeConducta](/docs/CODE_OF_CONDCUT.md)
