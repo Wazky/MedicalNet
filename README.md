@@ -8,8 +8,8 @@ MedicalNet es una aplicación diseñada para la gestión integral de clínicas m
 - Cuadro de mandos para gerencia y doctores.
 
 ## Tecnologías Utilizadas
-- **Frontend**: React.js, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Base de Datos**: PostgreSQL
-- **Autenticación**: JWT
-- **Despliegue**: Docker, AWS
+- **Frontend**: HTML, CSS, JavaScript (con jQuert para AJAX).
+- **Backend**: Java (con Tomcat como servidor web).
+- **Base de Datos**: MySQL (con JDBC para la conexión)
+- **Gestión de Dependencias**: Maven.
+- **Despliegue**: Tomcat.
