@@ -2,6 +2,9 @@
 
 MedicalNet es una aplicación diseñada para la gestión integral de clínicas médicas. El sistema permite gestionar pacientes, planificar citas, realizar seguimiento de tratamientos, gestionar historiales clínicos y más, optimizando los procesos administrativos y médicos.
 
+
+El objetivo principal de este proyecto es el empleo de metodologías ágiles en un proyecto real.
+
 ## Funcionalidades Principales
 - Gestión de trabajadores, pacientes, procedimientos y citas.
 - Gestión de contratos y pagos.
