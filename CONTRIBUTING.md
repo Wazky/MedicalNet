@@ -34,4 +34,4 @@ Todas las contribuciones serán reconocidas en nuestro archivo [Agradecimientos]
 ## Enlaces Útiles
 - [Documentación](/docs/DOCUMENTATION.md) 
 - [Roadmap](/docs/ROADMAP.md)
-- [CódigodeConducta](/docs/CODE_OF_CONDCUT.md)
+- [Código de Conducta](/docs/CODE_OF_CONDUCT.md)
